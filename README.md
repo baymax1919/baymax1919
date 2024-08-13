@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baymax1919&label=Profile%20views&color=0e75b6&style=flat" alt="baymax1919" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baymax1919" alt="baymax1919" /></a> </p>
-
 - 📫 How to reach me **brijeshrana2311@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
